@@ -1,4 +1,4 @@
 # lone_Island
-short stroy or poem
+short stroy
 
 My poem.
